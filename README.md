@@ -1,2 +1,2 @@
 # Event Planner
- Java-based Event Planner GUI, a user-friendly tool for seamless event organization. Plan and book venues, services, and details.
+ The Event planner is a GUI using the Java JFrame which helps to organize successful events for the users. This GUI provides users with an easy way to plan their special events. The user can add all the details of the event and get the necessary service. The proposed Event Planner system provides a smart way in booking the venue for the event. The user can select the type of event, type of food to be served, the estimated budget and any additional equipments required.
